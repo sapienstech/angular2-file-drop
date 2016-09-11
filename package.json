@@ -35,7 +35,7 @@
     "@angular/compiler": "2.0.0-rc.4",
     "@angular/core": "2.0.0-rc.4",
     "@angular/platform-browser-dynamic": "2.0.0-rc.4",
-    "fileapi": "^2.0.20"
+    "fileapi": "2.0.20"
   },
   "devDependencies": {
     "rxjs": "^5.0.0-beta.8",
